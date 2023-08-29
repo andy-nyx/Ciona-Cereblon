@@ -1,0 +1,45 @@
+cluster,cell.type.2,cell.type.3,tissue.2
+3,endoderm_1,endoderm_1,endoderm
+11,endoderm_2,endoderm_2,endoderm
+12,endoderm_3,endoderm_3,endoderm
+17,endoderm_4,endoderm_4,endoderm
+0,tail epidermis,epidermis_1,epidermis
+1,trunk epidermis_1,epidermis_2,epidermis
+2,midline epidermis_1,epidermis_3,epidermis
+4,trunk epidermis_2,epidermis_4,epidermis
+6,trunk epidermis_3,epidermis_5,epidermis
+8,midline epidermis_2,epidermis_6,epidermis
+37,Germ cells,germ cells,germ cells
+5,mesenchyme_1,mesenchyme_1,mesenchyme
+10,mesenchyme_2,mesenchyme_2,mesenchyme
+15,mesenchyme_3,mesenchyme_3,mesenchyme
+18,mesenchyme_4,mesenchyme_4,mesenchyme
+23,mesenchyme_5,mesenchyme_5,mesenchyme
+25,trunk lateral cells ,mesenchyme_6,mesenchyme
+33,mesenchyme_6,mesenchyme_7,mesenchyme
+41,mesenchyme_7,mesenchyme_8,mesenchyme
+13,muscle,muscle,muscle
+7,palp_1,nervous system_1,nervous system
+27,photoreceptor cells_2,nervous system_10,nervous system
+28,coronet cells,nervous system_11,nervous system
+29,lens cells,nervous system_12,nervous system
+30,central nervous system_7,nervous system_13,nervous system
+31,Pigment cells,nervous system_14,nervous system
+32,central nervous system_8,nervous system_15,nervous system
+34,BTNs,nervous system_16,nervous system
+35,motor neurons,nervous system_17,nervous system
+36,Switch neurons_1,nervous system_18,nervous system
+38,Switch neurons_2,nervous system_19,nervous system
+14,palp_2,nervous system_2,nervous system
+40,VP+ neurons,nervous system_20,nervous system
+42,RTENs,nervous system_21,nervous system
+43,central nervous system_9,nervous system_22,nervous system
+16,central nervous system_1,nervous system_3,nervous system
+19,photoreceptor cells_1,nervous system_4,nervous system
+20,central nervous system_2,nervous system_5,nervous system
+21,central nervous system_3,nervous system_6,nervous system
+22,central nervous system_4,nervous system_7,nervous system
+24,central nervous system_5,nervous system_8,nervous system
+26,central nervous system_6,nervous system_9,nervous system
+9,notochord,notochord,notochord
+39,TVCs,trunk ventral cells,trunk ventral cells
