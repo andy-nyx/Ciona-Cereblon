@@ -1,0 +1,25 @@
+Assay,Condition,Phenotype,Number of embryos
+Assay 1,Tbx6b>LacZ,Normal,11
+Assay 1,Tbx6b>LacZ,Posteriorized Muscle Cells,12
+Assay 1,Tbx6b>LacZ,Tail bending or Elongation defect,26
+Assay 1,Tbx6b>LacZ,Open Neural Tube,13
+Assay 1,Tbx6b>Crbn,Normal,25
+Assay 1,Tbx6b>Crbn,Posteriorized Muscle Cells,9
+Assay 1,Tbx6b>Crbn,Tail bending or Elongation defect,16
+Assay 1,Tbx6b>Crbn,Open Neural Tube,0
+Assay 2,Tbx6b>LacZ,Normal,10
+Assay 2,Tbx6b>LacZ,Posteriorized Muscle Cells,5
+Assay 2,Tbx6b>LacZ,Tail bending or Elongation defect,15
+Assay 2,Tbx6b>LacZ,Open Neural Tube,14
+Assay 2,Tbx6b>Crbn,Normal,27
+Assay 2,Tbx6b>Crbn,Posteriorized Muscle Cells,10
+Assay 2,Tbx6b>Crbn,Tail bending or Elongation defect,5
+Assay 2,Tbx6b>Crbn,Open Neural Tube,9
+Assay 3,Tbx6b>LacZ,Normal,11
+Assay 3,Tbx6b>LacZ,Posteriorized Muscle Cells,9
+Assay 3,Tbx6b>LacZ,Tail bending or Elongation defect,25
+Assay 3,Tbx6b>LacZ,Open Neural Tube,12
+Assay 3,Tbx6b>Crbn,Normal,19
+Assay 3,Tbx6b>Crbn,Posteriorized Muscle Cells,22
+Assay 3,Tbx6b>Crbn,Tail bending or Elongation defect,24
+Assay 3,Tbx6b>Crbn,Open Neural Tube,6

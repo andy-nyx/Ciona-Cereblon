@@ -1,0 +1,9 @@
+Condition,Phenotype,Number of embryos
+Tbx6b>LacZ,Normal,32
+Tbx6b>LacZ,Posteriorized Muscle Cells,26
+Tbx6b>LacZ,Tail Bending or Elongation Defect,66
+Tbx6b>LacZ,Open Neural Tube,39
+Tbx6b>Crbn,Normal,71
+Tbx6b>Crbn,Posteriorized Muscle Cells,41
+Tbx6b>Crbn,Tail Bending or Elongation Defect,45
+Tbx6b>Crbn,Open Neural Tube,15
